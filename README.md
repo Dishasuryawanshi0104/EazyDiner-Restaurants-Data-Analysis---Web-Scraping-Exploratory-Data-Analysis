@@ -1,7 +1,7 @@
 # EazyDiner-Restaurants-Data-Analysis---Web-Scraping-Exploratory-Data-Analysis
 This project focuses on scraping real-world restaurant data from EazyDiner and performing data cleaning, transformation, and Exploratory Data Analysis (EDA) to uncover insights related to restaurant ratings, pricing, locations, and customer preferences. The goal is to convert raw, unstructured web data into meaningful, actionable insights that can support data-driven decision-making in the food and hospitality domain.
 
-Project Objectives
+* Project Objectives
 
 Scrape restaurant data from the EazyDiner website using Python
 
@@ -15,7 +15,7 @@ Identify high-performing and low-performing restaurants
 
 Present insights through effective data visualizations
 
-Dataset Description
+* Dataset Description
 
 The dataset was scraped directly from the EazyDiner website and includes restaurant-level information such as:
 
@@ -35,7 +35,7 @@ Offers and availability details
 
 Note: This dataset is created strictly for educational and analytical purposes.
 
-Analysis Performed
+* Analysis Performed
 
 Data cleaning and preprocessing (missing values, duplicates, formatting issues)
 
@@ -49,7 +49,7 @@ Relationship analysis between pricing and ratings
 
 Identification of top-rated and low-rated restaurants
 
-Key Insights
+* Key Insights
 
 Most restaurants fall within a specific rating range, indicating a strong central trend
 
@@ -59,7 +59,7 @@ Certain cities and locations dominate restaurant listings
 
 A small percentage of restaurants receive significantly higher engagement
 
-Tools & Techniques Used
+* Tools & Techniques Used
 
 Python
 
@@ -73,10 +73,12 @@ Matplotlib & Seaborn – Data visualization
 
 Jupyter Notebook – Analysis and documentation
 
-Conclusion
+* Conclusion
 
 This project demonstrates how web scraping combined with Exploratory Data Analysis can be used to extract valuable insights from real-world online platforms. It strengthened my understanding of handling unstructured data, data cleaning techniques, EDA workflows, and data storytelling using visualizations.
 
-Author
+* Author
 
-Disha Suryawanshi Aspiring Data Analyst LinkedIn: www.linkedin.com/in/dishasuryawanshi0104
+Disha Suryawanshi 
+Aspiring Data Analyst 
+LinkedIn: www.linkedin.com/in/dishasuryawanshi0104
