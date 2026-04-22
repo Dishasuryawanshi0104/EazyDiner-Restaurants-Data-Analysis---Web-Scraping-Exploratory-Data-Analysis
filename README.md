@@ -80,5 +80,7 @@ This project demonstrates how web scraping combined with Exploratory Data Analys
 * Author
 
 Disha Suryawanshi 
-Aspiring Data Analyst 
+
+Aspiring Data Analyst
+
 LinkedIn: www.linkedin.com/in/dishasuryawanshi0104
